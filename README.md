@@ -1,7 +1,7 @@
 
-## Hi there 👋
 
-# Hi, I'm Yuvarani Anbu 👋
+
+# Hey, I'm Yuvarani Anbu 👋
 I am a passionate **Full Stack Java Developer** and **Technical Support Engineer** with hands-on experience in frontend & backend development, API integration, and enterprise-grade solutions. I thrive on building scalable systems, debugging complex issues, and delivering polished user experiences.
 
 
